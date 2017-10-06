@@ -1,6 +1,6 @@
 ---
-title: "Rottweiler 1"
-featured_image: "images/rottweiler_1.jpg"
+title: "Rottweiler 2"
+featured_image: "images/rottweiler_2.jpg"
 draft: true
 ---
 

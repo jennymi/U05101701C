@@ -2,3 +2,8 @@ baseURL = "https://executor-invention-71117.netlify.com/"
 languageCode = "en-us"
 title = "Min första hugo"
 theme = "ananke"
+SectionPageMenu = "main"
+
+[params]
+featured_image = "images/background.jpg"
+twitter = "https://twitter.com/t4ostra"
